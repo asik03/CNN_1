@@ -4,5 +4,5 @@ First attempt to create a convolutional neural network.
 
 It contains 2 convolutional layers, 2 maxpooling layes and a fully connected layer with the correct reshape, ReLu activation function and dropout.
 
-It has been tested with 1000, 2000, 7000 and 20000 iters, with a 94% accuracy.
+It has been tested with 1000, 2000, 6000 and 20000 iters, with a 94% accuracy.
 
