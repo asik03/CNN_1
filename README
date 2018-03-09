@@ -6,3 +6,5 @@ It contains 2 convolutional layers, 2 maxpooling layes and a fully connected lay
 
 It has been tested with 1000, 2000, 6000 and 20000 iters, with a 94% accuracy.
 
+01/03/18: A variable dropout implementation has been made in order to increase the accuracy, with a 100000 iters during the test, obtaining 98,04% testing accuracy.
+
